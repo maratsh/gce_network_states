@@ -1,7 +1,7 @@
 # Several states for managing network GCE
 
 
-## gce_address 
+##      gce_address 
 
 Creates static address
 
@@ -33,7 +33,7 @@ firewall-rule:
 
 ```
 
-# gce_nwteork
+# gce_network
 
 Creates new network
 
